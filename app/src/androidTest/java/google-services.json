@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "657428093618",
+    "firebase_url": "https://ungdungdautien-6024.firebaseio.com",
+    "project_id": "ungdungdautien-6024",
+    "storage_bucket": "ungdungdautien-6024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657428093618:android:027612f6166ccf03",
+        "android_client_info": {
+          "package_name": "com.example.hieu.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657428093618-d4at20s4cvcld6o8badtd7fo7uguc2pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtL_ItuRCXIycl2c0_of55OpPi2PFq6-8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
